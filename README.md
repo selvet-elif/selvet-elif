@@ -10,7 +10,7 @@
 
 ---
 ### 🌌 From the Stars to the Servers
-I'm an Astrophysics graduate who transitioned from **Data Science & Python** into **Software Development**. Currently, I'm focused on building mobile applications and leveling up my skills to become a versatile Full-Stack Developer. 
+I'm an Astrophysics graduate who transitioned from **Data Science & Python** into **Software Development**. Currently, I'm focused on building mobile applications and leveling up my skills to become a Software Developer. 
 
 - 🔭 **Currently building:** Exciting new projects in **Mobile Development**.
 - 🌱 **Deep diving into:** **Full-Stack Development** and modern software architectures.
