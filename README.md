@@ -33,12 +33,14 @@ I'm an Astrophysics graduate who transitioned from **Data Science & Python** int
 
 ### 📊 My Live GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-selvet.vercel.app/api?username=selvet-elif&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvet-elif&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-selvet.vercel.app/api?username=selvet-elif&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvet-elif&theme=dracula&hide_border=true" height="195" />
 </div>
 
+
+
 <div align="center">
-  <img src="https://github-readme-stats-selvet.vercel.app/api/top-langs/?username=selvet-elif&layout=compact&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-selvet.vercel.app/api/top-langs/?username=selvet-elif&layout=compact&theme=dracula&hide_border=true" height="195" />
 </div>
 
 ### 🐍 Contribution Snake
